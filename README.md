@@ -1,17 +1,43 @@
+# ⚡ System Online: Welcome to the Domain of Legopuck
 
+> *"There is no place like `~`"*
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=legopuck-orginal&label=Profile%20views&color=0e75b6&style=flat" alt="legopuck-orginal" /> </p>
+### `> whoami`
+Moin. Ich bin **Legopuck**, ein kompromissloser IT-Administrator. Meine Welt besteht aus Servern, Netzwerken und Automatisierung. Wo andere auf grafische Benutzeroberflächen klicken, schreibe ich ein Shell-Skript. Wenn Systeme reibungslos laufen und Netzwerke sicher sind, habe ich meinen Job gemacht. 
 
-- 🌱 I’m currently learning **java**
+Mein Spezialgebiet? **Unix-basierte Systeme.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/dsc.gg/kle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dsc.gg/kle" height="30" width="40" /></a>
+---
+
+### `> cat /etc/skills`
+
+**Kernkompetenzen & IT-Verwaltung**
+* **Betriebssysteme:** Fortgeschrittenes Unix/Linux-Wissen (Debian, RHEL, Ubuntu Server etc.)
+* **Shell & Automatisierung:** Bash-Scripting, Zsh, Cronjobs
+* **Infrastruktur:** Systemhärtung, Berechtigungsmanagement, Deployment
+* **Kommandozeilen-Werkzeuge:** `vim`, `tmux`, `ssh`, `grep`, `awk`, `sed` – das volle Arsenal
+* **Netzwerk & Sicherheit:** TCP/IP, Firewalls (iptables/nftables), DNS, DHCP
+
+---
+
+### `> top -u legopuck`
+**Aktuelle Prozesse & Status:**
+- 🔧 **Wartung:** Optimiere kontinuierlich IT-Infrastrukturen auf maximale Effizienz und Ausfallsicherheit.
+- ⚙️ **Automatisierung:** Lasse Skripte die langweilige Arbeit erledigen, um Zeit für echte Probleme zu haben.
+- 🧠 **Forschung:** Vertiefe mein Wissen in fortgeschrittenen Unix-Konzepten und moderner Systemarchitektur.
+
+---
+
+### `> ping -c 3 legopuck`
+*Verbindungsaufbau...*
+
+* **GitHub:** [@LegoPuck-orginal](https://github.com/LegoPuck-orginal)
+* **Kontakt:** *(Füge hier deine E-Mail oder deinen LinkedIn-Link ein, falls gewünscht)*
+
+<br>
+
+---
+<p align="center">
+  <i>"Unix is simple. It just takes a genius to understand its simplicity." – Dennis Ritchie</i><br>
+  <b>[ Root Access Granted ]</b>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=legopuck-orginal&show_icons=true&locale=en" alt="legopuck-orginal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=legopuck-orginal&" alt="legopuck-orginal" /></p>
