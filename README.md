@@ -18,7 +18,7 @@
 <h2 align="center">🛠️ Tech Stack & Arsenal</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,redhat,bash,vim,docker,nginx,git,github" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,redhat,bash,docker,nginx,git,github" alt="Skills" />
   <br><br>
   <p>
     <b>Core CLI Tools:</b><br>
